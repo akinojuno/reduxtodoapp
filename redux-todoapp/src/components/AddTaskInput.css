@@ -1,0 +1,9 @@
+.inputContainer {
+  display: flex;
+  width: 90%;
+  padding-left: 5%;
+}
+.addTaskBtn {
+  width: 20%;
+  flex-wrap: wrap;
+}
